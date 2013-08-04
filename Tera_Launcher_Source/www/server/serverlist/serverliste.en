@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<serverlist>
+      <server>
+        <id>1</id>
+        <ip>127.0.0.1</ip>
+        <port>11101</port>
+        <category sort="1">PvE</category>
+        <name raw_name="Tera Test -Alpha PVE">
+            <![CDATA[Tera Test -Alpha PVE]]>
+        </name>
+        <crowdness sort="5">None</crowdness>
+        <open sort="1">normal</open>
+        <permission_mask>0x00000000</permission_mask>
+        <server_stat>0x00000000</server_stat>
+        <popup>
+            <![CDATA[Unable to access the server at this time.]]>
+        </popup>
+        <language>de</language>
+    </server>
+<server>
+        <id>2</id>
+        <ip>127.0.0.1</ip>
+        <port>11102</port>
+        <category sort="2">PvP</category>
+        <name raw_name="Tera Test -Beta PVP">
+            <![CDATA[Tera Test -Beta PVP]]>
+        </name>
+        <crowdness sort="5">None</crowdness>
+        <open sort="4">unknown</open>
+        <permission_mask>0x00000000</permission_mask>
+        <server_stat>0x00000000</server_stat>
+        <popup>
+            <![CDATA[Unable to access the server at this time.]]>
+        </popup>
+        <language>de</language>
+    </server>    
+</serverlist>
